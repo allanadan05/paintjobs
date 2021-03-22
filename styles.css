@@ -1,0 +1,52 @@
+.company {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 25px auto;
+}
+
+.navbar-red {
+    height: 30px;
+    background-color: #ea6a5b;
+}
+
+.nav-link {
+    color: white;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    margin: 30px auto;
+    display: block;
+    text-align: center;
+}
+
+.car-image {
+    width: 250px;
+}
+
+.arrow {
+    height: 100px;
+    width: 100px;
+}
+
+.car-workspace {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.car-details {
+    width: 500px;
+    margin-left: 25px;
+}
+
+.btn-red {
+    background-color: #ea6a5b;
+    color: white;
+    border-collapse: collapse;
+    border: none;
+    padding: 2px 50px;
+    margin-bottom: 200px;
+}
